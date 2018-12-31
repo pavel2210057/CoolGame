@@ -1,7 +1,6 @@
 #include "Animation.hpp"
 
 #include <cassert>
-#include <algorithm>
 #include <typeinfo>
 
 using InterValues = std::vector<double>;
