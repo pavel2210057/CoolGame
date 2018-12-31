@@ -1,7 +1,6 @@
 #include "Animation.hpp"
 
 #include <cassert>
-#include <typeinfo>
 
 using InterValues = std::vector<double>;
 using CoordQuery = std::vector<sf::Vector2f>;
